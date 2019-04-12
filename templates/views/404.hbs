@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>404</title>
+       <link rel="stylesheet" href="/css/style.css">
+       <link rel="icon" href="/image/weather.png">
+    </head>
+
+    <body>
+
+      <!--these are partials rendering data form other file -->
+      <div class="main-content"> 
+        {{>header}}
+
+        <p>{{errorMessage}}</p>
+
+      </div>
+      {{>footer}}
+    </body>
+</html>
