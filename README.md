@@ -22,7 +22,7 @@ Weather Application using NodeJS, Express and APIs.
 
 
 ## Updation
-* **Responsive** feature will be available soon. [For better view of website use Mobile and Tablet].
+* **Responsive** web pages.
 * More weather information in next updation.
 
 
