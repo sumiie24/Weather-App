@@ -23,7 +23,7 @@ app.use(express.static(publicDirectoryPath))
 //These are Routes handlers
 app.get('', (req, res) => {
     res.render('index',{
-        title: 'Weather App',
+        title: 'Weather',
         name: 'Sumit Yadav'
     })
 })
@@ -37,7 +37,7 @@ app.get('/about', (req, res) => {
 
 app.get('/help', (req, res) => {
     res.render('help',{
-        helpText: 'This is some helpful text',
+        helpText: 'Contact the Developer:-',
         title:'Help',
         name:'Sumit Yadav'
     })
