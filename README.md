@@ -1,34 +1,37 @@
 # Weather-App
 Weather Application using NodeJS, Express and APIs.
+A web application that fetches the weather information by searching Location. It uses **Dark Sky API & Mapbox API** for fetching information. 
 
 ## To view the project
-* Link for website -> **[https://sumitweatherapp.herokuapp.com/](https://sumitweatherapp.herokuapp.com/)**
+* Website link -> **[https://sumitweatherapp.herokuapp.com/](https://sumitweatherapp.herokuapp.com/)**
 
 
-## Feature
+## Features
 * Real time weather updates for any location in the world. 
 * Shows current temperature, high temperature, low temperature and percentage chance of rain.
 
 
 ## Screenshots 
-* 1. Weather information for entered location
-        <img src="" />
+* Weather information for entered location
+        <img src="https://github.com/sumiie24/Weather-App-/blob/master/screenshots/weather.png" />
 
-* 2. About page
-        <img src="" />
+* About page
+        <img src="https://github.com/sumiie24/Weather-App-/blob/master/screenshots/about.png" />
 
-* 3. Help page
-        <img src="" />
+* Help page
+        <img src="https://github.com/sumiie24/Weather-App-/blob/master/screenshots/help.png" />
 
 
 ## Updation
-* **Responsive** feature will be available soon. [For better view of website use Mobile and Tablet].
-* More weather information in next updation.
+* **Responsive** web pages.
+* More weather information.
 
 
 ## Requirements
 * Web browser
 
+## Contributing
+I welcome pull requests, bug fixes and issue reports. Before proposing a change, please discuss your change by raising an issue.
 
 ## Developer 
 * **[Sumit Yadav](https://www.linkedin.com/in/sumiie24/)**
