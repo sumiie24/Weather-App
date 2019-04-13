@@ -1,5 +1,6 @@
 # Weather-App
 Weather Application using NodeJS, Express and APIs.
+A web application that fetches the weather information by searching Location. It uses **Dark Sky API & Mapbox API** for fetching information. 
 
 ## To view the project
 * Website link -> **[https://sumitweatherapp.herokuapp.com/](https://sumitweatherapp.herokuapp.com/)**
