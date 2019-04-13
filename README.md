@@ -5,7 +5,7 @@ Weather Application using NodeJS, Express and APIs.
 * Website link -> **[https://sumitweatherapp.herokuapp.com/](https://sumitweatherapp.herokuapp.com/)**
 
 
-## Feature
+## Features
 * Real time weather updates for any location in the world. 
 * Shows current temperature, high temperature, low temperature and percentage chance of rain.
 
