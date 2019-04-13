@@ -2,7 +2,7 @@
 Weather Application using NodeJS, Express and APIs.
 
 ## To view the project
-* Link for website -> **[https://sumitweatherapp.herokuapp.com/](https://sumitweatherapp.herokuapp.com/)**
+* Website link -> **[https://sumitweatherapp.herokuapp.com/](https://sumitweatherapp.herokuapp.com/)**
 
 
 ## Feature
