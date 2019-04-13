@@ -11,13 +11,13 @@ Weather Application using NodeJS, Express and APIs.
 
 
 ## Screenshots 
-* 1. Weather information for entered location
+* Weather information for entered location
         <img src="https://github.com/sumiie24/Weather-App-/blob/master/screenshots/weather.png" />
 
-* 2. About page
+* About page
         <img src="https://github.com/sumiie24/Weather-App-/blob/master/screenshots/about.png" />
 
-* 3. Help page
+* Help page
         <img src="https://github.com/sumiie24/Weather-App-/blob/master/screenshots/help.png" />
 
 
