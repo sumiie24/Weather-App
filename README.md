@@ -23,7 +23,7 @@ Weather Application using NodeJS, Express and APIs.
 
 ## Updation
 * **Responsive** web pages.
-* More weather information in next updation.
+* More weather information.
 
 
 ## Requirements
